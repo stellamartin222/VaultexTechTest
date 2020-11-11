@@ -1,5 +1,13 @@
 ----- Vaultex tech test -----
 
+-----To run-----
+
+Inside the run.js file you will need to insert your order in the specified area. The order must be formatted as an array with mutilple elements. 
+
+A single order line must be formatted with the first item being a string and the second a number. The first order line may start with 'cassettes' to specify the number of cassettes ordered. 
+
+Once you have inputted the order, to run the program you will need to write in the terminal "npm start".
+
 -----Functions-----
 
 When you run the code it triggers the run.js file to creates a new instance of the "Program" class.
@@ -96,12 +104,4 @@ There are 35 test that make up the spec file for this program.
 To run the tests;
 - in the terminal type "npm i", to install the testing libraries
 - once installed, in the terminal type "npm t", to run the tests
-
------To run-----
-
-Inside the run.js file you will need to insert your order in the specified area. The order must be formatted as an array with mutilple elements. 
-
-A single order line must be formatted with the first item being a string and the second a number. The first order line may start with 'cassettes' to specify the number of cassettes ordered. 
-
-Once you have inputted the order, to run the program you will need to write in the terminal "npm start".
 
