@@ -1,0 +1,19 @@
+{
+    "name": "VaultexTechTest.js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "VaultexTechTest.js",
+    "dependencies": {
+      "chai": "^4.2.0"
+    },
+    "devDependencies": {
+      "mocha": "^7.0.1"
+    },
+    "scripts": {
+      "test": "mocha spec",
+      "start": "node run.js"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
