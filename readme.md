@@ -66,12 +66,13 @@ example;
 
 -numberOfCassettes is given the requested value of four
 
--cassettes is given the value [
+-cassettes is given the value 
+    [
     ['5', 10000],
     ['10', 20000],
     ['20', 40000],
     ['50', 100000]
-]
+    ]
 -------------------- 
 
 The orderchecker will then create a new instance of the CassetteChecker class.
